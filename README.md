@@ -19,7 +19,7 @@ Hi everyone, my name is Valentyn and I am 20 years old. I am a full-stack develo
 
 
 ### ⚙️ Tech stack:
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,react,redux,vite,vitest,nodejs,express,mongodb,postgresql,postman,github,git,bitbucket&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,react,redux,vite,vitest,nodejs,express,mongodb,postgresql,postman,github,git,bitbucket&perline=8)](#)
 
 ### Contact with me
 [![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/berejnoy_val)
