@@ -9,5 +9,5 @@ Hi everyone, my name is Valentyn and I am 20 years old. I am a full-stack develo
   <img height=200 align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Valentyn13&show_icons=true&theme=transparent" />
 </a>
 <a href="https://github.com/Valentyn13/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valentyn13&layout=compact&langs_count=8&card_width=370" />
+  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valentyn13&layout=compact&langs_count=8&card_width=320" />
 </a>
