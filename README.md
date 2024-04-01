@@ -4,10 +4,20 @@ Hi everyone, my name is Valentyn and I am 20 years old. I am a full-stack develo
 
 <br/>
 
-
 <a href="https://github.com/Valentyn13/github-readme-stats">
   <img height=200 align="center" width="47%" src="https://github-readme-stats.vercel.app/api?username=Valentyn13&show_icons=true&theme=transparent" />
 </a>
+<br/>
+<br/>
 <a href="https://github.com/Valentyn13/convoychat">
-  <img height=200 align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valentyn13&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Valentyn13&layout=compact&langs_count=8&card_width=320" />
 </a>
+
+
+### Languages
+[![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+
+### Contact with me
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/berejnoy_val)
+
+
